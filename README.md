@@ -1,1 +1,2 @@
-# JSP2020
+# JSP2020 Karol Pichurski
+
