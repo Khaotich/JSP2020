@@ -1,4 +1,4 @@
-print('Zmienna _ w trybie interaktywnym służy do zapisywania ostatnio podanej wartości: ')
+print('Zmienna _ w trybie interaktywnym służy do przechowywania ostatnio podanej wartości: ')
 print('>>> 20')
 print('20')
 print('>>> _ - 13')
