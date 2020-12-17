@@ -46,7 +46,7 @@ for i in range(len(keys)):
         if os.path.exists(path_file_to_save + '/' + name + '_1.txt'):
             pliki = os.listdir(path_file_to_save)
             z = 1
-            for i in pliki:
+            for j in pliki:
                 if name + '_' + str(z) + '.txt' in pliki:
                     z += 1
             name = name + '_' + str(z)
